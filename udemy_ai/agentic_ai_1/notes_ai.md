@@ -23,4 +23,24 @@
 
 ## Section1: RAG and Generative AI with Python
 
-![alt text](image1.png)
+![alt text](images/image1.png)
+
+## Section3: Basic of Retrieval System for RAG and generative AI
+
+### Game Plan for Fundementals of Retrieval Systems
+- tokenize and preprocess text
+- build and query inverted indexes
+- apply retrival models
+    - boolean
+    - vector space
+    - probalistic
+
+### Overview of Information Retrieval (IR)
+- Indexing
+- Quering
+- Ranking
+
+### Understanding Tokenization in NLP
+- word 
+- sentence
+- character

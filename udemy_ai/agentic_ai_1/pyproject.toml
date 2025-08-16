@@ -1,5 +1,5 @@
 [project]
-name = "ai-basics"
+name = "ai-udemy"
 version = "0.1.0"
 description = ""
 authors = [
@@ -14,8 +14,8 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "ai_basics", from = "src"}]
-
+package-mode = false
+packages = [{include = "ai_udemy", from = "src"}]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
